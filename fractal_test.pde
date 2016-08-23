@@ -5,7 +5,7 @@ int[] interval = {0, 600};
 int inter = 5;
 
 void setup() {
-  size(600, 600);
+  size(1080, 1920);
 }
 
 void draw() {
